@@ -6,8 +6,8 @@
 ### About me:
 
 - I'm studying software engineering.
-- I’m currently working on building an Airbnb clone.
-- I’m currently learning Python, C and JavaScript.
+- I’m currently building a book finder app.
+- I’m currently learning Python and JavaScript.
 - Pronouns: she/her
 
 
