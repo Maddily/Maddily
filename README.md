@@ -45,20 +45,20 @@
  </a>
  <!-- html -->
  <a 
-    href="https://www.java.com" 
+    href="https://www.html.com" 
     target="_blank" rel="noreferrer"> 
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="java" width="40" height="40"
+        alt="html" width="40" height="40"
     /> 
  </a> 
  <!-- css -->
  <a 
-    href="https://www.java.com" 
+    href="https://www.w3schools.com/css/" 
     target="_blank" rel="noreferrer"> 
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="java" width="40" height="40"
+        alt="css" width="40" height="40"
     /> 
  </a>
  <!-- vs code -->
@@ -86,6 +86,15 @@
     <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"
         width="40" height="40"
+    /> 
+ </a>
+ <!-- Webpack -->
+ <a 
+    href="https://webpack.js.org/" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/webpack/webpack-original-wordmark.svg"
+        alt="webpack" width="40" height="40"
     /> 
  </a>
 </p>
