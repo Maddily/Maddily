@@ -6,7 +6,6 @@
 ### About me:
 
 - I'm studying software engineering.
-- I’m currently building a book finder app.
 - I’m currently learning Python and JavaScript.
 - Pronouns: she/her
 
