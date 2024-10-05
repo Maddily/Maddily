@@ -104,14 +104,6 @@
 ### Connect with me
 
 <p>
-<!-- GitHub -->
-<a 
-    target="_blank" 
-    href="https://github.com/Maddily">
-    <img
-        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-    </img>
-</a>
 <!-- LinkedIn -->
 <a 
     target="_blank"
@@ -127,14 +119,6 @@
     <img
         src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
     </img>    
-</a>
-<!-- X -->
-<a 
-    target="_blank" 
-    href="https://twitter.com/mayadadev">
-    <img
-        src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-    </img>
 </a>
 </p>
 
