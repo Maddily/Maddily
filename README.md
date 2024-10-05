@@ -5,9 +5,8 @@
 
 ### About me:
 
-- I'm studying software engineering.
-- I’m currently learning Python and JavaScript.
-- Pronouns: she/her
+- I'm studying full-stack software engineering.
+- I’m currently learning JavaScript.
 
 
 <hr>
