@@ -5,8 +5,7 @@
 
 ### About me:
 
-- I'm studying full-stack software engineering.
-- I’m currently learning JavaScript.
+- I'm learning full-stack software engineering.
 
 
 <hr>
