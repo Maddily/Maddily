@@ -1,15 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=25&pause=2000&color=B185E6&vCenter=true&random=false&width=450&height=300&lines=Hi+there.+I'm+Mayada.)](https://git.io/typing-svg)
-<img src="https://media1.tenor.com/m/PUdfnHnBGK4AAAAd/art-room.gif" alt="Animate Background Technology GIF" width="200" height="300">
-
-
 
 ### About me:
 
 - I'm learning full-stack software engineering.
 
-
 <hr>
-
 
 ### Languages and Tools:
 
