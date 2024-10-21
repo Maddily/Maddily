@@ -94,7 +94,7 @@
 <hr>
 
 
-### Connect with me
+### Contact me:
 
 <p>
 <!-- LinkedIn -->
