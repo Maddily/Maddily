@@ -1,8 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=25&pause=2000&color=B185E6&vCenter=true&random=false&width=450&height=300&lines=Hi+there.+I'm+Mayada.)](https://git.io/typing-svg)
-
 ### About me:
 
-- I'm learning full-stack software engineering.
+- I'm a self-taught software engineer.
 
 <hr>
 
