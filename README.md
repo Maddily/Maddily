@@ -1,6 +1,6 @@
 ### About me:
 
-I'm a self-taught software developer focused on building full-stack applications.
+I'm a self-taught software developer.
 
 <hr>
 
