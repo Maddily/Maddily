@@ -8,5 +8,5 @@ I'm a self-taught software developer.
 
 - **Languages:** JavaScript, Python, C, HTML, CSS
 - **Tools:** Git, Webpack, VS Code, Vim, Redis, Jest, Mocha
-- **Frameworks & Libraries:** Node.js, Express.js, Mocha
+- **Frameworks & Libraries:** Node.js, Express.js
 - **Databases:** MongoDB
