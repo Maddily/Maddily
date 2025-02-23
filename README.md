@@ -7,6 +7,6 @@ I'm a self-taught software developer.
 ### Skills:
 
 - **Languages:** JavaScript, Python, C, HTML, CSS
-- **Tools:** Git, Webpack, VS Code, Vim, Redis
-- **Frameworks & Libraries:** Node.js, Express.js, Jest, Mocha
-- **Databases:** MongoDB
+- **Tools:** Git, Webpack, Vite, VS Code, Vim
+- **Frameworks & Libraries:** Node.js, React, Express.js, Jest, Mocha, Vitest
+- **Databases & Caching:** MongoDB, Redis
