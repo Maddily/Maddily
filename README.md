@@ -1,6 +1,6 @@
 ### About me:
 
-I'm a self-taught software developer.
+I'm a software developer.
 
 <hr>
 
