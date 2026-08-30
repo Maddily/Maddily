@@ -6,7 +6,10 @@ I'm a software developer.
 
 ### Skills:
 
-- **Languages:** JavaScript, Python, C, HTML, CSS
-- **Tools:** Git, Webpack, Vite, VS Code, Vim
-- **Frameworks & Libraries:** Node.js, React, Express.js, Jest, Mocha, Vitest
-- **Databases & Caching:** MongoDB, Redis
+- **Languages:** JavaScript, HTML, CSS
+- **Frontend:** React.js
+- **Backend:** Node.js, Express.js
+- **Databases:** PostgreSQL, Redis
+- **Testing:** Jest, Vitest, React Testing Library, Mocha
+- **Tools:** Git, GitHub, Vite, Webpack, Linux, Chrome DevTools
+- **Web Fundamentals:** SEO, Accessibility, Responsive Design, Performance Optimization
