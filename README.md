@@ -11,5 +11,5 @@ I'm a software developer.
 - **Backend:** Node.js, Express.js
 - **Databases:** PostgreSQL, Redis
 - **Testing:** Jest, Vitest, React Testing Library, Mocha
-- **Tools:** Git, GitHub, Vite, Webpack, Linux, Chrome DevTools
-- **Web Fundamentals:** SEO, Accessibility, Responsive Design, Performance Optimization
+- **Tools:** Vite, Webpack, Docker, Linux
+- **Web Fundamentals:** Accessibility, Responsive Design, Performance Optimization
